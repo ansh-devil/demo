@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>
+			Headings & Paragraphs
+		</title>
+		
+	</head>
+	<body>
+		
+	<h1> H1
+	
+	<P> P1 </p>
+	
+	
+	<h2> H2
+	<P> P2 </p>
+	
+	</h2>	
+	
+	<h3> H3 <P> P3 </p></h3>
+		<h4> H4 <P> P4 </p></h4>
+		
+		<h5> H5 <P> P5 </p> <h6> H6 <P> P6 </p></h6>
+		</h5>
+	</h1>	
+			
+		
+	</body>
+</html>
